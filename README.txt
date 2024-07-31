@@ -1,2 +1,2 @@
-	Merhaba hocam,
+
 1 MB üstü ".html" dosyaları için kodumuzun çıktı vermesi benim bilgisayarımda 50+ saniye sürüyor. Ödevde yüklediğimiz input.html dosyasında 1 milyondan fazla karakter bulunduğu için uzun sürebilir. Lütfen konsol çıktı verene kadar bekleyin. Sonsuz döngüye girmiyor.
